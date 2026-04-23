@@ -1,6 +1,18 @@
+![Python](https://img.shields.io/badge/Python-3.9+-blue?logo=python)
+![FFmpeg](https://img.shields.io/badge/FFmpeg-enabled-green?logo=ffmpeg)
+![Status](https://img.shields.io/badge/status-stable-brightgreen)
+![Platform](https://img.shields.io/badge/platform-windows-lightgrey)
+
 # 🎬 PSP Video Converter
 
 A lightweight video converter built with **Python + PySide6 + FFmpeg**, optimized for **PlayStation Portable (PSP)**.
+
+<img width="958" height="539" alt="Screen2" src="https://github.com/user-attachments/assets/4731d4ff-843e-4e8b-894e-323fda7139d4" />
+<img width="955" height="538" alt="Screen1" src="https://github.com/user-attachments/assets/ea2c8fe4-e6e9-47ce-bb19-539571f3c1d6" />
+
+## 📦 Download
+
+[⬇ Download latest release](https://github.com/K0MA-dll/PSP-Video-Converter/releases/latest)
 
 ## ✨ Features
 - Convert any video to PSP format (480x272)
@@ -27,6 +39,25 @@ cd PSP-Video-Converter
 
 Run the application:
 python psp_video_converter.py
+
+## ⚙️ How it works
+
+This application is built using:
+
+### 🎥 FFmpeg backend
+- Handles video conversion
+- Converts videos into PSP-compatible format (480x272)
+- Encodes using H.264 + AAC
+
+### 🖥️ PySide6 UI
+- Provides graphical interface
+- Handles drag & drop
+- Displays progress and controls
+
+### 🧵 Threading system
+- Conversion runs in background thread
+- Prevents UI freezing
+- Allows pause / resume / stop
 
 ## 🎮 Output format
 - Resolution: 480x272
