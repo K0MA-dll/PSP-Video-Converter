@@ -1,15 +1,16 @@
-# Python
 __pycache__/
 *.pyc
 
-# Logs
 *.log
 
 # Builds
-EXE/
 dist/
 build/
+EXE/
 *.spec
 
-# FFmpeg binaries
+# FFmpeg
 ffmpeg/
+
+# Executable
+*.exe
