@@ -1,0 +1,15 @@
+# Python
+__pycache__/
+*.pyc
+
+# Logs
+*.log
+
+# Builds
+EXE/
+dist/
+build/
+*.spec
+
+# FFmpeg binaries
+ffmpeg/
