@@ -7,11 +7,18 @@
 
 A lightweight video converter built with **Python + PySide6 + FFmpeg**, optimized for **PlayStation Portable (PSP)**.
 
+## 📸 Preview
+
+
 <img width="958" height="539" alt="Screen2" src="https://github.com/user-attachments/assets/4731d4ff-843e-4e8b-894e-323fda7139d4" />
 
 ## 📦 Download
 
-[⬇ Download latest release](https://github.com/K0MA-dll/PSP-Video-Converter/releases/latest)
+<p align="center">
+  <a href="https://github.com/K0MA-dll/PSP-Video-Converter/releases/latest">
+    <img src="https://img.shields.io/badge/⬇%20DOWNLOAD-EXE-blue?style=for-the-badge&logo=github">
+  </a>
+</p>
 
 ## ✨ Features
 - Convert any video to PSP format (480x272)
