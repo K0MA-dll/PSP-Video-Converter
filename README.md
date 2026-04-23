@@ -8,7 +8,6 @@
 A lightweight video converter built with **Python + PySide6 + FFmpeg**, optimized for **PlayStation Portable (PSP)**.
 
 <img width="958" height="539" alt="Screen2" src="https://github.com/user-attachments/assets/4731d4ff-843e-4e8b-894e-323fda7139d4" />
-<img width="955" height="538" alt="Screen1" src="https://github.com/user-attachments/assets/ea2c8fe4-e6e9-47ce-bb19-539571f3c1d6" />
 
 ## 📦 Download
 
