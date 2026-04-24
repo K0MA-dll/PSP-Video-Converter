@@ -5,7 +5,9 @@
 
 # 🎬 PSP Video Converter
 
-A lightweight video converter built with vibe coding with **Python + PySide6 + FFmpeg**, optimized for **PlayStation Portable (PSP)**.
+A lightweight video converter built with **Python + PySide6 + FFmpeg**, optimized for **PlayStation Portable (PSP)**.
+This software isn’t meant to be the most feature-rich, but it focuses on simplicity and reliability. It converts videos to PSP format without requiring any complex settings, 
+everything is designed to be straightforward and easy to use.
 
 ## 📸 Preview
 
