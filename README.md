@@ -50,7 +50,9 @@ cd PSP-Video-Converter
 ```
 
 Run the application:
+```bash
 python psp_video_converter.py
+```
 
 ## ⚙️ How it works
 
@@ -89,6 +91,3 @@ You can change it inside the app.
 
 ## 📜 License
 MIT License
-
-## 🙌 Author
-Made with ❤️ by K0MA.dll
