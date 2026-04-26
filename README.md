@@ -42,8 +42,12 @@ pip install PySide6
 
 ## 📦 Usage
 Clone the repository:
+```bash
 git clone https://github.com/K0MA-dll/PSP-Video-Converter.git
+```
+```bash
 cd PSP-Video-Converter
+```
 
 Run the application:
 python psp_video_converter.py
